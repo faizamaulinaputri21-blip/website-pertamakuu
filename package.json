@@ -1,0 +1,21 @@
+{
+  "name": "website-pertamakuu",
+  "version": "1.0.0",
+  "description": "website pertama saya",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faizamaulinaputri21-blip/website-pertamakuu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/faizamaulinaputri21-blip/website-pertamakuu/issues"
+  },
+  "homepage": "https://github.com/faizamaulinaputri21-blip/website-pertamakuu#readme"
+}
